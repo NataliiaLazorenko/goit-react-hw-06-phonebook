@@ -1,0 +1,16 @@
+.contact-name {
+  margin-right: 15px;
+  font-weight: 500;
+}
+
+.delete-contact-btn {
+  padding: 5px 30px;
+
+  color: #299e67;
+  background-color: #fff;
+}
+
+.delete-contact-btn:focus,
+.delete-contact-btn:hover {
+  background-color: #bcfcdd;
+}
