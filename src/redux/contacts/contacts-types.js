@@ -1,7 +1,10 @@
-const ADD = 'contacts/add';
-const DELETE = 'contacts/delete';
-const FILTER = 'contacts/filter';
+// при використанні redux-toolkit файл із типами не потрібний
 
-const types = { ADD, FILTER, DELETE };
+// =============== без використання redux-toolkit ===============
+// const ADD = 'contacts/add';
+// const DELETE = 'contacts/delete';
+// const FILTER = 'contacts/filter';
 
-export default types;
+// const types = { ADD, FILTER, DELETE };
+
+// export default types;
